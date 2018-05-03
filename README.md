@@ -1,0 +1,1 @@
+# Teradata_UDF_Surrogate_Key
